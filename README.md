@@ -3,6 +3,12 @@
 Philips Hue bulbs support without Bridge for Homey
 
 ## Release notes:
+
+### v1.6.2
+
+Added support for:
+- Lily XL
+
 ### v1.6.1
 Fix:
 - LCT000 issue

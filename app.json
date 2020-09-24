@@ -2,13 +2,13 @@
   "id": "com.philips.hue.zigbee.ah",
   "sdk": 2,
   "name": {
-    "en": "Philips Hue ZigBee AH"
+    "en": "Philips Hue ZigBee"
   },
   "description": {
     "en": "Philips Hue Zigbee devices, without the Bridge."
   },
   "category": "lights",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "compatibility": ">=1.5.0",
   "author": {
     "name": "Johan Bendz",
