@@ -1,5 +1,5 @@
 {
-  "id": "com.philips.hue.zigbee.ah",
+  "id": "com.philips.hue.zigbee",
   "sdk": 2,
   "name": {
     "en": "Philips Hue ZigBee"
